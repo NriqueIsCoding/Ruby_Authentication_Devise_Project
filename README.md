@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Ruby_Authentication_Devise_Project
+
+Ruby on Rails that uses Devise Gem for authentication
+
+>>>>>>> origin/master
