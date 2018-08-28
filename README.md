@@ -1,4 +1,4 @@
 # Ruby_Authentication_Devise_Project
 
-Ruby on Rails that used Devise for authentication
+Ruby on Rails that uses Devise Gem for authentication
 
